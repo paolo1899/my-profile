@@ -1,0 +1,60 @@
+html {
+	font-family: helvetica;
+	background-color: skyblue;
+	}
+	body {
+		width: 1000px;
+		background-color: white;
+		margin: auto;
+		border-radius: 15px;
+		padding: 15px;
+
+		}
+
+		header {
+		background-color: white;
+		padding: 10px;
+		text-align: center;
+
+		}
+		nav  {
+			height: 100px;
+			background-color: skyblue;
+			border-radius: 15px;
+		}
+
+		nav ul {
+			list-style: none;
+			padding-top: 40px;
+		}
+		nav ul li {
+			display: inline;
+			margin: 35px;
+		}
+		nav ul li a {
+			color:white;
+			text-decoration: none;
+		}
+		nav ul li a:hover {
+			color: darkblue;
+			text-decoration: underline;
+		}
+
+		h2{
+			text-align: left;
+		}
+
+		.video {
+			text-align: center;
+		}
+		footer {
+			text-align: center;
+			padding: 15px 15px 5px 15px;
+			color: lightskyblue ;
+		
+	
+		
+
+	
+
+
